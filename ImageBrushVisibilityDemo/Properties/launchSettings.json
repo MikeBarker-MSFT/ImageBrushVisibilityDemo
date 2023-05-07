@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ImageBrushVisibilityDemo (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "ImageBrushVisibilityDemo (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
